@@ -1,6 +1,7 @@
 # short-story
 short story!
 
+my name is angela and i like cherries.
 
 Hopefully this works and git will be absolutely solved for us all
 
